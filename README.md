@@ -9,43 +9,36 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👩‍💻 About Me
 
-I'm a dedicated and detail-oriented full stack developer with a passion for building efficient, scalable, and user-friendly web applications. I specialize in building modern applications using:
+I’m a highly motivated and detail-oriented Full Stack Developer with a strong foundation in both frontend and backend development. I enjoy building robust, responsive, and user-friendly web applications that solve real-world problems.
 
-- ⚛️ **React** for dynamic, responsive frontends  
-- 🖥️ **ASP.NET Core** for powerful, secure backends  
-- 🗃️ **SQL Server** & **Entity Framework** for robust data management
-
-I enjoy turning complex problems into clean, elegant solutions.
+- 🌱 Currently learning: Advanced React patterns, .NET Core APIs, SQL optimization
+- 🛠 Tech Stack Focus: **React**, **ASP.NET Core**, **SQL Server**
+- 🎯 Goal: To contribute to impactful software projects while continuously learning and improving
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Skills & Tools
 
-**Frontend**
-- React.js, JavaScript, HTML5, CSS3, Bootstrap, Material UI
+#### 🧠 Languages
+- JavaScript, C#, SQL, Java, PHP
 
-**Backend**
-- ASP.NET Core, C#, RESTful APIs, Entity Framework
+#### 💻 Frontend
+- React.js, HTML5, CSS3, Bootstrap, Material UI
 
-**Database**
+#### 🖥️ Backend
+- ASP.NET Core, Entity Framework, RESTful APIs
+
+#### 🗃️ Databases
 - SQL Server, MySQL
 
-**Tools & Platforms**
-- Visual Studio, Git & GitHub, Postman, Azure, VS Code
+#### ⚙️ Tools & Platforms
+- Visual Studio, Visual Studio Code, Git & GitHub, Postman, Azure, Figma
 
 ---
 
-### 🚀 Projects
-
-#### 🩺 [DoctorAppointmentApp](https://github.com/navodalakshika/DoctorAppointmentApp)
-A full-stack web application that simplifies the process of booking and managing doctor appointments.  
-**Tech Used:** React, ASP.NET Core, SQL Server, Entity Framework
-
----
-
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navodalakshika&show_icons=true&theme=default" alt="GitHub Stats" />
@@ -57,13 +50,11 @@ A full-stack web application that simplifies the process of booking and managing
 
 ---
 
-### 📬 Get in Touch
-
-If you'd like to collaborate or have any questions, feel free to reach out:
+### 📬 Contact
 
 - 📧 Email: **navoda991@gmail.com**
 - 💼 LinkedIn: [Navoda Lakshika](https://linkedin.com/in/navoda-lakshika)
 
 ---
 
-_“Code is not just code. It's the bridge between ideas and reality.”_
+_“Creating scalable, clean, and maintainable code is not just a goal — it’s a craft.”_
