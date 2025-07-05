@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="mailto:navoda991@gmail.com"><img src="https://img.shields.io/badge/email-navoda991@gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="https://linkedin.com/in/navoda-lakshika" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Navoda%20Lakshika-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="https://github.com/navodalakshika"><img src="https://img.shields.io/github/followers/navodalakshika?label=Follow&style=flat-square" /></a>
+  <a href="www.linkedin.com/in/navoda-lakshika-2017b1324" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Navoda%20Lakshika-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://github.com/NavodaLakshika"><img src="https://img.shields.io/github/followers/navodalakshika?label=Follow&style=flat-square" /></a>
 </p>
 
 ---
