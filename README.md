@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Navoda%20Lakshika&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=03045E,0077B6,00B4D8,90E0EF,CAF0F8&height=200&section=header&text=Navoda%20Lakshika&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=18&descAlignY=55" />
 </div>
+
 
 <div align="center">
   
@@ -99,20 +100,6 @@ const developer = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=navodalakshika&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=navodalakshika&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navodalakshika&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=navodalakshika&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🎯 Contribution Metrics
 
 <div align="center">
@@ -131,42 +118,6 @@ const developer = {
 
 ---
 
-## 🚀 What I'm Currently Working On
-
-```diff
-+ 🏗️  Architecting microservices with .NET Core & Docker
-+ ⚡  Performance optimization in React applications
-+ 🔐  Implementing OAuth 2.0 & JWT authentication
-+ 📊  Advanced PostgreSQL query optimization
-+ ☁️  Deploying serverless applications on Azure
-+ 🤝  Contributing to open-source React libraries
-+ 📚  Learning system design & architecture patterns
-```
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=navodalakshika&repo=your-repo-name&theme=tokyonight&hide_border=true)](https://github.com/NavodaLakshika/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=navodalakshika&repo=another-repo&theme=tokyonight&hide_border=true)](https://github.com/NavodaLakshika/another-repo)
-
-</div>
-
----
-
-## 📈 Coding Activity
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</div>
-
----
-
 ## 🎯 Development Principles
 
 <div align="center">
@@ -179,19 +130,6 @@ const developer = {
 
 ---
 
-## 🌐 Let's Connect!
-
-<div align="center">
-
-💼 **Open to:** Freelance Projects • Full-Time Opportunities • Collaboration • Mentorship
-
-📧 **Email:** [navoda991@gmail.com](mailto:navoda991@gmail.com)  
-💬 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/navoda-lakshika-2017b1324)  
-🐙 **GitHub:** [Follow me](https://github.com/NavodaLakshika)
-
-</div>
-
----
 
 <div align="center">
   
@@ -203,6 +141,3 @@ const developer = {
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</div>
