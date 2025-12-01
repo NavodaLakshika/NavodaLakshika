@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding Robot" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 ```typescript
 const developer = {
@@ -113,10 +113,20 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎯 Contribution Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navodalakshika&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navodalakshika&theme=tokyonight)
+  
+</div>
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=navodalakshika&theme=tokyonight" alt="Repos per Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=navodalakshika&theme=tokyonight" alt="Most Commit Language" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=navodalakshika&theme=tokyonight" alt="Productive Time" width="32%"/>
+  
 </div>
 
 ---
