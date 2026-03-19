@@ -31,12 +31,12 @@
 ```typescript
 const developer = {
   name: "Navoda Lakshika",
-  location: "🇱🇰 Colombo, Sri Lanka",
+  location: "Sri Lanka",
   title: "Full Stack Developer",
   
   expertise: {
     frontend: ["React.js", "TypeScript", "Tailwind CSS"],
-    backend: [".NET Core", "Laravel", "Spring Boot"],
+    backend: ["C#","ASP.NET", "Laravel", "Spring Boot"],
     database: ["PostgreSQL", "MySQL", "SQL Server"],
     cloud: ["Azure", "AWS"],
     architecture: ["Microservices", "RESTful APIs", "MVC"]
@@ -50,8 +50,6 @@ const developer = {
   
   philosophy: "Clean code is not written by following rules. 
                It's written by caring about craft.",
-  
-  funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
 
