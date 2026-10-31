@@ -26,7 +26,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 <img align="right" alt="Coding Robot" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
@@ -59,7 +59,7 @@ const developer = {
 
 ---
 
-Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Contribution Snake
 
 ---
 
-Technology Stack
+# Technology Stack
 
 <div align="center">
 
@@ -114,7 +114,7 @@ Technology Stack
 
 ---
 
-GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -132,7 +132,7 @@ GitHub Analytics
 
 ---
 
-Development Principles
+# Development Principles
 
 <div align="center">
 
