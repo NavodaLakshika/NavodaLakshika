@@ -59,7 +59,7 @@ const developer = {
 
 ---
 
-# 🐍 Contribution Snake
+Contribution Snake
 
 <div align="center">
 
@@ -69,7 +69,7 @@ const developer = {
 
 ---
 
-# 🛠️ Technology Stack
+Technology Stack
 
 <div align="center">
 
@@ -114,7 +114,7 @@ const developer = {
 
 ---
 
-# 📊 GitHub Analytics
+GitHub Analytics
 
 <div align="center">
 
@@ -132,7 +132,7 @@ const developer = {
 
 ---
 
-# 🎯 Development Principles
+Development Principles
 
 <div align="center">
 
