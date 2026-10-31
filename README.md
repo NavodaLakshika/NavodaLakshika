@@ -136,7 +136,7 @@ const developer = {
 
 <div align="center">
 
-| 🎨 Clean Code | 🔄 DRY | 🧪 Testing | 📖 Documentation |
+|  Clean Code |  DRY |  Testing |  Documentation |
 |:---:|:---:|:---:|:---:|
 | **Readable & Maintainable** | **Don't Repeat Yourself** | **Test-Driven Development** | **Self-Documenting Code** |
 
@@ -146,11 +146,11 @@ const developer = {
 
 <div align="center">
 
-## ⭐ Show some love by starring my repositories! ⭐
+##  Show some love by starring my repositories! 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### Thanks for visiting! 🚀
+### Thanks for visiting! 
 
 *Let's build something amazing together!*
 
